@@ -1,5 +1,7 @@
 {
-  "observability": {
-    "enabled": false
+  "name": "s-hard",
+  "compatibility_date": "2026-08-27",
+  "assets": {
+    "directory": "."
   }
 }
